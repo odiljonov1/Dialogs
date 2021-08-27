@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="matn">Lorem ipsum dolor sit amet, consecteur adipiscing elit. Fusce congue nunc id auctor feugiat. Maecenas scelerisque misi quam, at sagittis lectus pharetra id. Etiam ultriecess suscipit dictum.</string>
+</resources>
